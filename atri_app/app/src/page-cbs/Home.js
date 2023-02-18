@@ -3979,8 +3979,8 @@ export function useImage58Cb() {
 }), [])
 	return { onClick }
 }
-export function useFlex_K2b1Cb() {
-	const onClick = useCallback(callbackFactory("Flex_K2b1", "Home", "/", "onClick", 
+export function useFlex_K2b2Cb() {
+	const onClick = useCallback(callbackFactory("Flex_K2b2", "Home", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [

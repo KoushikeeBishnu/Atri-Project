@@ -385,6 +385,9 @@ const desktopModeProps = {
     "Flex_K2b": {
       "callbacks": {}
     },
+    "Flex_K2b2": {
+      "callbacks": {}
+    },
     "Flex_K2b1": {
       "callbacks": {}
     },
